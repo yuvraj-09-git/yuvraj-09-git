@@ -1,6 +1,6 @@
 <br clear="both">
 
-<div align="right">
+<div align="center">
   <img height="-12" src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExYm1uY3F1ZzE5Zjh2dnZ2eXhtdTdyNzNjb3o5Z2ZyMzY5ZTkzbXBmeCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/fwbZnTftCXVocKzfxR/giphy.gif"  />
 </div>
 
@@ -51,8 +51,7 @@
 ###
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=yuvraj-09-git&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=yuvraj-09-git&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dark&hide_border=true&order=2" height="150" alt="languages graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=yuvraj-09-git&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=tokyonight&hide_border=false&order=2" height="150" alt="languages graph"  />
   <img src="https://streak-stats.demolab.com?user=yuvraj-09-git&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5&order=3" height="150" alt="streak graph"  />
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=yuvraj-09-git&radius=16&theme=react&area=true&order=5" height="300" alt="activity-graph graph"  />
 </div>
